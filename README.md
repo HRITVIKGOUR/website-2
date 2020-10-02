@@ -103,7 +103,7 @@ To ensure Exercism's accessibility, we've added a few tools. Before submitting a
 
 ### Deleting an account
 
- To delete a user, run `user.destroy.`
+ To remove or delete a user, run `user.destroy.`
 
 The user record is deleted, as well as associated objects except the ff:
 
